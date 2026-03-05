@@ -1,0 +1,4 @@
+img {
+  max-width: 100%; /* A imagem nunca será maior que o contêiner */
+  height: auto;    /* Mantém a proporção original */
+}
